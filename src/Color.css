@@ -1,0 +1,14 @@
+.content{
+    background-color: azure;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+.copyright{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 20px;
+}

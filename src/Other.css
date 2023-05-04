@@ -1,0 +1,27 @@
+.small{
+    height: 8px;    
+}
+.content1{
+    background-color:rgb(59, 92, 190) ;
+    padding: 10px;
+    width: 110px;
+    text-align: center;
+    transform: rotate(25deg);
+    border: 1px solid gray;
+    margin-bottom: 20px;
+    margin-top: 30px;
+
+}
+.content2{
+    background-color:rgb(59, 92, 190) ;
+    padding: 10px;
+    width: 110px;
+    transform: rotate(-25deg);
+
+
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

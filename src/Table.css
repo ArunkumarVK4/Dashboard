@@ -1,0 +1,18 @@
+table{
+    border: 1px solid black;
+    padding: 5px;
+}
+tr{
+    border: 1px solid black;
+
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+
+}
+nav{
+    margin: 10px;
+    width: 20px;
+    height: 20px;
+}

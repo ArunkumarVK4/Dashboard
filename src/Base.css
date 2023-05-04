@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.side{
+    width:200px;
+    border: 1px solid black;
+    height: 100vh;
+    text-align: center;
+}
+.btn{
+    padding-bottom: 30px;
+}
+.inputB{
+    width: 500px;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+}
+.main-content{
+    display:flex;
+    flex-direction: row;
+}
+.left-content{
+    height: 100vh;
+    margin-right: 20px;
+    
+}
+.right-content{
+    height: 100vh;
+    width: 75%;
+
+}
+.bFlex{
+    text-align: center;
+    margin-left: 5%;
+    display: flex;
+}
+.fa-search{
+    margin-top: 30px;
+    padding-left: 10px;
+}
+.btn1{
+    margin-left: 10px;
+    font-size: 25px;
+}

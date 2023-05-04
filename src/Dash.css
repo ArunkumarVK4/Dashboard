@@ -1,0 +1,38 @@
+body{
+    background-color:white;
+}
+.div{
+    background-color: aliceblue;
+}
+.boxText{
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.dash{
+    display: flex;
+    justify-content: space-between;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+button{
+    background-color: rgb(21, 85, 205);
+    height: 30px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 3px;
+    padding-right: 5px;
+}
+.heading{
+    font-size: 25px;
+    font-family: sans-serif;
+
+}
+.icon-flex{
+    font-size: 30px;
+    display: flex;
+   justify-content: space-between;
+}
+.colorLi{
+    border-radius: 5px;
+}
